@@ -5,7 +5,6 @@
 2. Model:
     - Definition: A trained algorithm that can perform a specific task, such as generating text.
     - Example: A language translation model is trained on a large dataset of text in multiple languages and can translate text from one language to another. When a user inputs "Bonjour, comment ça va?" (French), the model outputs "Hello, how are you?" (English).
-
 3. Max Completion Tokens:
     - Definition: The maximum number of tokens (words, characters, or subwords) that the model is allowed to generate in response to a given input.
     - Example: A user asks a chatbot to write a short story, and the model is set to generate a maximum of 200 tokens. The chatbot responds with a story that is approximately 200 words long.
@@ -13,9 +12,9 @@
 4. n:
     - Definition: The number of generated responses or samples that the model should produce for a given input.
     - Example: A user asks a language model to generate three different responses to the prompt "What is the meaning of life?", and the model outputs three distinct responses:
-        - Response 1: "The meaning of life is to find happiness and fulfillment."
-        - Response 2: "The meaning of life is to pursue knowledge and understanding."
-        - Response 3: "The meaning of life is to connect with others and build meaningful relationships."
+        - Response 1 : "The meaning of life is to find happiness and fulfillment."
+        - Response 2 : "The meaning of life is to pursue knowledge and understanding."
+        - Response 3 : "The meaning of life is to connect with others and build meaningful relationships."
 
 5. Stream:
     - Definition: A continuous flow of input data that the model processes in real-time.
