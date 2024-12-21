@@ -1,0 +1,21 @@
+WRITE A SHORT NOTE ON FOLLOWING TOPICS:
+API
+SDK
+WEB APIS
+LIBRARY APIS
+PROMPTIING AND COMPLETION
+
+1: API
+An Application Programming Interface (API) is a set of defined rules that enables different applications to communicate with each other. It allows developers to access specific functionality or data from another application or service.
+
+2: SDK
+A Software Development Kit (SDK) is a collection of tools, libraries, and documentation that developers can use to build applications for a specific platform, software, or hardware.
+
+3: Web APIs
+Web APIs are APIs that are accessed through the web, using protocols such as HTTP or HTTPS, and are used to interact with web applications, services, or data.
+
+4: Library APIs
+Library APIs are APIs that provide access to a collection of pre-built functionality, such as code libraries or frameworks, that can be used by developers to build applications.
+
+5: Prompting and Completion
+Prompting and completion refer to the process of providing input (prompting) to an AI model and receiving a generated response (completion) that completes or responds to the input prompt.
